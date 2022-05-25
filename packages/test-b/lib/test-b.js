@@ -4,4 +4,5 @@ module.exports = testB;
 
 function testB() {
     // TODO
+    console.log('testB');
 }
