@@ -1,0 +1,32 @@
+{
+  "name": "@qtb/test-c",
+  "version": "0.0.1",
+  "description": "test-c",
+  "keywords": [
+    "test-c"
+  ],
+  "author": "qiantianbing <qiantianbing@qianxin.com>",
+  "homepage": "https://baidu.com",
+  "license": "ISC",
+  "main": "lib/test-c.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wshiqtb/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wshiqtb/lerna-demo/issues"
+  }
+}
