@@ -28,5 +28,9 @@
   },
   "bugs": {
     "url": "https://github.com/wshiqtb/lerna-demo/issues"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "lodash": "^4.17.21"
   }
 }

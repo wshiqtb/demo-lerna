@@ -18,5 +18,9 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "lodash": "^4.17.21"
   }
 }
