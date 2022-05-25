@@ -30,6 +30,7 @@
     "url": "https://github.com/wshiqtb/lerna-demo/issues"
   },
   "dependencies": {
+    "@qtb/test-a": "^0.0.3-alpha.1",
     "dayjs": "^1.11.2",
     "lodash": "^4.17.21"
   }
